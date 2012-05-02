@@ -1,0 +1,1 @@
+[Current breakpoint](javascript:(function(){ var w; if (self.innerHeight) w = self.innerWidth; else if (document.documentElement && document.documentElement.clientHeight) w = document.documentElement.clientWidth; else if (document.body) w = document.body.clientWidth; alert(w); })()) 
